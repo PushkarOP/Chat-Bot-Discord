@@ -1,0 +1,25 @@
+{
+  "name": "ChatBot",
+  "version": "2.0.0",
+  "description": "Simple and smart ai chatbot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+   "chatbot",
+   "freediscordchatbot",
+   "freechatbot",
+   "cleverbot",
+   "cleverbotdiscord",
+   "cleverbotdiscordfree",
+   "clever",
+   "discord.js"
+  ],
+  "author": "Lebyy_Dev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "smartestchatbot": "^3.0.0"
+  },
+}
