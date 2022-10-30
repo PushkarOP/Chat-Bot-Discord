@@ -27,7 +27,7 @@ const keepAlive = require('./server.js')
 keepAlive()
 
 client.on("messageCreate", (message) => {
-  if (message.channel.name == "ᕙ╭𒋝☁₊ﾟchatbot") {
+  if (message.channel.name == "├・💭・chatbot") {
     // The bot will only look for messages with the channel named "chatbot"
     if (message.author.bot) return;
     message.content = message.content
